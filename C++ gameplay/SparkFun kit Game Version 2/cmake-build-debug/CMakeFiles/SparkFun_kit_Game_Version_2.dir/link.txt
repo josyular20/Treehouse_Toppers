@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SparkFun_kit_Game_Version_2.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\SparkFun_kit_Game_Version_2.dir/objects.a @CMakeFiles\SparkFun_kit_Game_Version_2.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\SparkFun_kit_Game_Version_2.dir/objects.a -Wl,--no-whole-archive  -o SparkFun_kit_Game_Version_2.exe -Wl,--out-implib,libSparkFun_kit_Game_Version_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SparkFun_kit_Game_Version_2.dir\linklibs.rsp
